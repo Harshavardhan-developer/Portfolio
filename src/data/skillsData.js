@@ -1,0 +1,18 @@
+export const SKILLS = [
+  { name: "React.js", icon: "⚛️", cat: "Frontend", level: 90, color: "#61dafb" },
+  { name: "JavaScript", icon: "𝐉𝐒", cat: "Language", level: 90, color: "#f7df1e" },
+  { name: "Node.js", icon: "⬡", cat: "Backend", level: 82, color: "#68a063" },
+  { name: "Express.js", icon: "▶", cat: "Backend", level: 82, color: "#aaaaaa" },
+  { name: "MongoDB", icon: "🍃", cat: "Database", level: 78, color: "#47a248" },
+  { name: "PostgreSQL", icon: "🐘", cat: "Database", level: 65, color: "#336791" },
+  { name: "Tailwind CSS", icon: "🌬", cat: "Frontend", level: 88, color: "#38bdf8" },
+  { name: "REST API", icon: "🔌", cat: "Backend", level: 85, color: "#ff6b6b" },
+  { name: "JWT Auth", icon: "🔐", cat: "Backend", level: 80, color: "#f59e0b" },
+  { name: "Python", icon: "🐍", cat: "Language", level: 65, color: "#3776ab" },
+  { name: "Git", icon: "🌿", cat: "Tools", level: 85, color: "#f05033" },
+  { name: "HTML5", icon: "⬡", cat: "Frontend", level: 95, color: "#e44d26" },
+  { name: "CSS3", icon: "✦", cat: "Frontend", level: 88, color: "#264de4" },
+  { name: "TypeScript", icon: "TS", cat: "Language", level: 60, color: "#3178c6" },
+  { name: "Vercel", icon: "▲", cat: "Tools", level: 82, color: "#aaaaaa" },
+  { name: "Postman", icon: "📬", cat: "Tools", level: 80, color: "#ff6c37" },
+];
