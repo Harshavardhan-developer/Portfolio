@@ -18,6 +18,7 @@ export const PROJECTS = [
       "Joblib",
     ],
     link: "https://github.com/Harshavardhan-developer/Job-Market-Analysis",
+    liveLink: null,
     color: "#f59e0b",
     icon: "🤖",
     metrics: [
@@ -45,6 +46,7 @@ export const PROJECTS = [
       "Streamlit",
     ],
     link: "https://github.com/Harshavardhan-developer/InsightFlow",
+    liveLink: "https://insightflow-harsha.streamlit.app/",
     color: "#8b5cf6",
     icon: "📊",
     metrics: [
@@ -73,6 +75,7 @@ export const PROJECTS = [
     ],
     link:
       "https://github.com/Harshavardhan-developer/Hotel-Bar-Inventory-Forecasting-Par-Level-Recommendation-System",
+    liveLink: null,
     color: "#14b8a6",
     icon: "📦",
     metrics: [
@@ -100,6 +103,7 @@ export const PROJECTS = [
       "Tailwind CSS",
     ],
     link: "https://github.com/Harshavardhan-developer/roof-estimator",
+    liveLink: "https://roof-estimator-gamma.vercel.app/",
     color: "#ef4444",
     icon: "🏠",
     metrics: [
@@ -126,6 +130,7 @@ export const PROJECTS = [
       "Vercel",
     ],
     link: "https://github.com/Harshavardhan-developer/TRAVEL-UNBOUNDED",
+    liveLink: "https://travel-unbounded-woad.vercel.app/",
     color: "#06b6d4",
     icon: "✈️",
     metrics: [
@@ -151,6 +156,7 @@ export const PROJECTS = [
       "JWT",
     ],
     link: "https://taskflow-fawn-sigma.vercel.app/",
+    liveLink: "https://taskflow-fawn-sigma.vercel.app/",
     color: "#7c6af7",
     icon: "📋",
     metrics: [
@@ -176,6 +182,7 @@ export const PROJECTS = [
       "CSS",
     ],
     link: "https://jobsAppharsh.ccbp.tech",
+    liveLink: "https://jobsAppharsh.ccbp.tech",
     color: "#4ade80",
     icon: "💼",
     metrics: [
@@ -200,6 +207,7 @@ export const PROJECTS = [
       "CSS",
     ],
     link: "https://weather-apr.vercel.app",
+    liveLink: "https://weather-apr.vercel.app",
     color: "#22d3ee",
     icon: "🌤️",
     metrics: [
