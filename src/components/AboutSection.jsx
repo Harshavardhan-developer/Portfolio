@@ -197,7 +197,7 @@ export default function AboutSection({ theme }) {
                     className="text-xs"
                     style={{ color: theme.text2 }}
                   >
-                    B.Tech ECE · 2023 – 2026 · CGPA: 7.8/10
+                    B.Tech ECE · 2023 – 2026 · CGPA: 7.71/10
                   </div>
                 </div>
               </div>
