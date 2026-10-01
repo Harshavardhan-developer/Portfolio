@@ -90,7 +90,7 @@ export default function HomeSection({ theme }) {
             }}
           />
 
-          Available for opportunities
+          Open to Work
         </motion.div>
 
         {/* Name */}
